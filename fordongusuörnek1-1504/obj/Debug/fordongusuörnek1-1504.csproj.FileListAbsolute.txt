@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1-1504.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1-1504.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1_1504.Form1.resources
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1_1504.Properties.Resources.resources
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1-1504.csproj.GenerateResource.cache
+C:\Users\User\source\repos\fordongusuörnek1-1504\fordongusuörnek1-1504\obj\Debug\fordongusuörnek1-1504.csproj.CoreCompileInputs.cache
